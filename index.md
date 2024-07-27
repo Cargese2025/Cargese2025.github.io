@@ -68,10 +68,6 @@ The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)
 
 For any question, write [cargese2025@gmail.com](mailto:cargese2025@gmail.com).
 
-Feel free to tweet about the workshop! 
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=cargese2025&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2025</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 <!-- # Organization Committee:
 Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.)
