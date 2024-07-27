@@ -6,18 +6,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 
 # Schedule
 
-Some of the slides of the talks can be found 
-[here](https://github.com/Cargese2023/Cargese2023.github.io/tree/main/slides).
-
-The program of the workshop:
-
-![Program1](program1.png)
-
-![Program2](program2.png)
-
-<!-- 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
+TBA
 
 # Lecturers
 
@@ -77,10 +66,6 @@ For any question, write [cargese2025@gmail.com](mailto:cargese2025@gmail.com).
 Feel free to tweet about the workshop! 
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2025&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2025</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-![Group Photo](Photo-Conf.jpg)
-
 
 
 <!-- # Organization Committee:
