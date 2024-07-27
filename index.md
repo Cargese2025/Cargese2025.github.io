@@ -13,7 +13,7 @@ TBA
 <div style="column-count: 3;">
 
 Peter Bartlett (Berkeley)<br>
-Giulio Biroli (ENS)<be>
+Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris)<br>
 Song Mei (Berkeley)<br>
@@ -21,7 +21,7 @@ Aaditya Ramdas (CMU)<br>
 Philippe Rigollet (MIT)<br>
 Daniel Roy (Vector Institute)<br>
 Andrez Saxe (UCL)<br>
-Nike Sun (MIT)<be>
+Nike Sun (MIT)<br>
 
 </div>
 
