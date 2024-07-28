@@ -32,8 +32,9 @@ Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Alex Damien (Princeton)<br>
 Edgar Dobriban (U Penn)<br>
+Yvan Dokmanic (Basel) <br>
 Karolina Dziugaite (Goodle)<br>
-Federica	Gerace (Bologna)<br>
+Federica Gerace (Bologna)<br>
 Brice Huang (Harvard)<br>
 Aukosh Jagannath (Waterloo)<br>  
 Jason Lee (Princeton)<br>
@@ -42,7 +43,7 @@ Marc Mezard (Bocconi)<br>
 Francesca Mignacco (Princeton)<br>
 Courtney Paquette (McGill University)<br>
 Will Perkins (Georgia Tech)<br>           
-Eric 	Vanden-Eijnden	(NYU)<br>
+Eric Vanden-Eijnden (NYU)<br>
 Leila Wehbe (CMU)<br> 
 Maxim Raginsky (Urbana-Champaign)<br>
 Pan Zhang (ITPC)<br>
