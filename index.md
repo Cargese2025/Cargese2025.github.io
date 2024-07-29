@@ -30,15 +30,15 @@ Nike Sun (MIT)<br>
 <div style="column-count: 3;">
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
-Alex Damien (Princeton)<br>
+Alex Damian (Princeton)<br>
 Edgar Dobriban (U Penn)<br>
 Yvan Dokmanic (Basel) <br>
-Karolina Dziugaite (Goodle)<br>
+Karolina Dziugaite (Google)<br>
 Federica Gerace (Bologna)<br>
 Brice Huang (Harvard)<br>
 Aukosh Jagannath (Waterloo)<br>  
 Jason Lee (Princeton)<br>
-Alessandro Liao (ICTP)<br>
+Alessandro Liao (SISSA)<br>
 Marc Mezard (Bocconi)<br>
 Francesca Mignacco (Princeton)<br>
 Courtney Paquette (McGill University)<br>
