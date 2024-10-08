@@ -25,14 +25,14 @@ Nike Sun (MIT)<br>
 
 </div>
 
-# Invited speakers
+# Confirmed Invited speakers
 
 <div style="column-count: 3;">
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Alex Damian (Princeton)<br>
 Edgar Dobriban (U Penn)<br>
-Yvan Dokmanic (Basel) <br>
+Ivan Dokmanic (Basel) <br>
 Karolina Dziugaite (Google)<br>
 Federica Gerace (Bologna)<br>
 Brice Huang (Harvard)<br>
