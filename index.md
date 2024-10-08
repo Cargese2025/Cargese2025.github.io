@@ -57,13 +57,15 @@ Applications will be open in 2025
 
 # Practical informations
 
-The workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
+TBA
+
+<!-- The workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
 While participant can arrive on 4/8 and leave on 16/8, the conference will take place between 5/8 and 15/8.
 
 More information can be found on [the institute webpage](https://iesc.universita.corsica/?lang=en).
 
-The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)
+The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)-->
 
 # Contacts
 
