@@ -20,7 +20,7 @@ Song Mei (Berkeley)<br>
 Aaditya Ramdas (CMU)<br>
 Philippe Rigollet (MIT)<br>
 Daniel Roy (Vector Institute)<br>
-Andrez Saxe (UCL)<br>
+Andrew Saxe (UCL)<br>
 Nike Sun (MIT)<br>
 
 </div>
