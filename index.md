@@ -50,7 +50,7 @@ Pan Zhang (ITPC)<br>
 
 # Registration
 
-<-- Applications will be open in late 2025 -->
+<!--- Applications will be open in late 2025 -->
 
 <!-- The selection of the participants will take place in the days following the deadline (31st March 2025).  -->
 
@@ -62,7 +62,7 @@ While participant can arrive on 4/8 and leave on 16/8, the conference will take 
 
 More information can be found on [the institute webpage](https://iesc.universita.corsica/?lang=en).
 
-<-- The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf) -->
+<!--- The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf) -->
 
 # Contacts
 
