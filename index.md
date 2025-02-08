@@ -48,11 +48,6 @@ Maxim Raginsky (Urbana-Champaign)<br>
 Pan Zhang (ITPC)<br>
 </div>
 
-# Registration
-
-<!--- Applications will be open in late 2025 -->
-
-<!-- The selection of the participants will take place in the days following the deadline (31st March 2025).  -->
 
 # Practical informations
 
