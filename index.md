@@ -34,7 +34,7 @@ Edgar Dobriban (U Penn)<br>
 Ivan Dokmanic (Basel) <br>
 Karolina Dziugaite (Google)<br>
 Federica Gerace (Bologna)<br>
-Brice Huang (Harvard)<br>
+Brice Huang (MIT)<br>
 Aukosh Jagannath (Waterloo)<br>  
 Jason Lee (Princeton)<br>
 Alessandro Liao (SISSA)<br>
