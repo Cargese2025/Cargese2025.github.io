@@ -16,35 +16,54 @@ Peter Bartlett (Berkeley)<br>
 Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris)<br>
-Song Mei (Berkeley)<br>
 Aaditya Ramdas (CMU)<br>
-Philippe Rigollet (MIT)<br>
 Daniel Roy (Vector Institute)<br>
 Andrew Saxe (UCL)<br>
 
 </div>
 
-# Confirmed Invited speakers
+# Confirmed invited speakers and participants
 
 <div style="column-count: 3;">
+Ahmed El Alaoui (Cornell) <br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
+Alberto Bietti (Flatiron) <br>
+Nicolas Boumal (EPFL) <br>
+Joan Bruna (NYU) <br>
 Alex Damian (Princeton)<br>
-Edgar Dobriban (U Penn)<br>
-Ivan Dokmanic (Basel) <br>
+Ivan Dokmanic (Basel)<br>
 Karolina Dziugaite (Google)<br>
+David Gamarnik (Harvard) <br>
+Cedric Gerbelot (ENS Lyon) <br>
 Federica Gerace (Bologna)<br>
-Brice Huang (MIT)<br>
-Aukosh Jagannath (Waterloo)<br>  
+Sebastian Goldt (SISSA) <br>
+Lenaic Chizat (EPFL) <br>
+Hugo Cui (Harvard) <br>
+Francesca Mignacco (Princeton)<br>
+Elliot Paquette (McGill) <br>
+Courtney Paquette (McGill University)<br>
+Antoine Maillard (INRIA France) <br>
+Marc Mezard (Bocconi)<br>
+Theo Misiakiewicz (Yale) <br>
+Francesco Mori (Oxford) <br>
+Carlo Lucibello (Bocconi) <br>
 Jason Lee (Princeton)<br>
 Alessandro Liao (SISSA)<br>
-Marc Mezard (Bocconi)<br>
-Francesca Mignacco (Princeton)<br>
-Courtney Paquette (McGill University)<br>
-Will Perkins (Georgia Tech)<br>           
+Yue Lu (Harvard) <br>
+Aukosh Jagannath (Waterloo)<br>
+Chris Jones (Bocconi) <br>
+Will Perkins (Georgia Tech)<br>
+Subha Sen (Harvard) <br>
+Guilhem Semerjian (ENS Paris) <br>
+Inbar Seroussi (Tel-Aviv)<br>
+Gabriele Sicuro (Bologna) <br>
+Stefano Sarao (Gothenburg University)<br>
+Pragya Sur (Harvard) <br>
 Eric Vanden-Eijnden (NYU)<br>
-Leila Wehbe (CMU)<br> 
-Maxim Raginsky (Urbana-Champaign)<br>
+Leila Wehbe (CMU)<br>
+Ilias Zadik (Yale) <br>
+Zohar Ringel(Racah Institute of Physics)<br>
 Pan Zhang (ITPC)<br>
 </div>
 
