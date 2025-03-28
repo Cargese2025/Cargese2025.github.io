@@ -57,7 +57,7 @@ Alessandro Liao (SISSA)<br>
 Yue Lu (Harvard) <br>
 Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <br>
-Subha Sen (Harvard) <br>
+Subhabrata Sen(Harvard) <br>
 Guilhem Semerjian (ENS Paris) <br>
 Inbar Seroussi (Tel-Aviv)<br>
 Gabriele Sicuro (Bologna) <br>
@@ -66,8 +66,8 @@ Pragya Sur (Harvard) <br>
 Eric Vanden-Eijnden (NYU)<br>
 Leila Wehbe (CMU)<br>
 Ilias Zadik (Yale) <br>
-Zohar Ringel(Racah Institute of Physics)<br>
-Pan Zhang (ITPC)<br>
+Zohar Ringel (Racah Institute of Physics)<br>
+Pan Zhang (ITPC) <br>
 </div>
 
 
