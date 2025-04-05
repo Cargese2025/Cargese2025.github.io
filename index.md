@@ -16,7 +16,6 @@ Peter Bartlett (Berkeley)<br>
 Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris)<br>
-Aaditya Ramdas (CMU)<br>
 Daniel Roy (Vector Institute)<br>
 Andrew Saxe (UCL)<br>
 
@@ -64,7 +63,6 @@ Gabriele Sicuro (Bologna) <br>
 Stefano Sarao Mannelli(Gothenburg University)<br>
 Pragya Sur (Harvard) <br>
 Eric Vanden-Eijnden (NYU)<br>
-Leila Wehbe (CMU)<br>
 Ilias Zadik (Yale) <br>
 Zohar Ringel (Racah Institute of Physics)<br>
 Pan Zhang (ITPC) <br>
