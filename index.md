@@ -17,8 +17,10 @@ Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris)<br>
 Daniel Roy (Vector Institute)<br>
+Yue Lu (Harvard)<br>
 Andrew Saxe (UCL)<br>
-
+Brice Huang (MIT) <br>
+Pragya Sur (Harvard) <br>
 </div>
 
 # Confirmed invited speakers and participants
@@ -40,7 +42,6 @@ David Gamarnik (Harvard) <br>
 Cedric Gerbelot (ENS Lyon) <br>
 Federica Gerace (Bologna)<br>
 Sebastian Goldt (SISSA) <br>
-Brice Huang (MIT) <br>
 Francesca Mignacco (Princeton)<br>
 Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
@@ -53,7 +54,6 @@ Francesco Mori (Oxford) <br>
 Carlo Lucibello (Bocconi) <br>
 Jason Lee (Princeton)<br>
 Alessandro Liao (SISSA)<br>
-Yue Lu (Harvard) <br>
 Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <br>
 Subhabrata Sen(Harvard) <br>
@@ -61,11 +61,9 @@ Guilhem Semerjian (ENS Paris) <br>
 Inbar Seroussi (Tel-Aviv)<br>
 Gabriele Sicuro (Bologna) <br>
 Stefano Sarao Mannelli(Gothenburg University)<br>
-Pragya Sur (Harvard) <br>
 Eric Vanden-Eijnden (NYU)<br>
 Ilias Zadik (Yale) <br>
 Zohar Ringel (Racah Institute of Physics)<br>
-Pan Zhang (ITPC) <br>
 </div>
 
 
