@@ -69,7 +69,7 @@ Zohar Ringel (Racah Institute of Physics)<br>
 
 # Practical informations
 
-The workshop cost is 1100 euros per participant covering accommodation, lunches and breakfasts. 
+The workshop cost is 1100 CHF per participant covering accommodation, lunches and breakfasts. 
 
 While participant can arrive on 4/8 and leave on 16/8, the conference will take place between 5/8 and 15/8.
 
