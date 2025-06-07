@@ -53,7 +53,6 @@ Theo Misiakiewicz (Yale) <br>
 Francesco Mori (Oxford) <br>
 Carlo Lucibello (Bocconi) <br>
 Jason Lee (Princeton)<br>
-Alessandro Liao (SISSA)<br>
 Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <br>
 Subhabrata Sen(Harvard) <br>
