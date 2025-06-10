@@ -46,7 +46,6 @@ Francesca Mignacco (Princeton)<br>
 Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
 Will Perkins (Georgia Tech)<br>
-Adam Klivans (UT-Austin) <br>
 Antoine Maillard (INRIA France) <br>
 Marc Mezard (Bocconi)<br>
 Theo Misiakiewicz (Yale) <br>
