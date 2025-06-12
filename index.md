@@ -30,7 +30,6 @@ Ahmed El Alaoui (Cornell) <br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Alberto Bietti (Flatiron) <br>
-Nicolas Boumal (EPFL) <br>
 Claire Boyer (Orsay) <br>
 Joan Bruna (NYU) <br>
 Alex Damian (Princeton)<br>
@@ -47,7 +46,6 @@ Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
 Will Perkins (Georgia Tech)<br>
 Antoine Maillard (INRIA France) <br>
-Marc Mezard (Bocconi)<br>
 Theo Misiakiewicz (Yale) <br>
 Francesco Mori (Oxford) <br>
 Carlo Lucibello (Bocconi) <br>
