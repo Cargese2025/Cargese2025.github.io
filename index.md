@@ -35,7 +35,6 @@ Joan Bruna (NYU) <br>
 Alex Damian (Princeton)<br>
 Ivan Dokmanic (Basel)<br>
 Karolina Dziugaite (Google)<br>
-Lenaic Chizat (EPFL) <br>
 Hugo Cui (Harvard) <br>
 David Gamarnik (Harvard) <br>
 Cedric Gerbelot (ENS Lyon) <br>
@@ -44,7 +43,6 @@ Sebastian Goldt (SISSA) <br>
 Francesca Mignacco (Princeton)<br>
 Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
-Will Perkins (Georgia Tech)<br>
 Antoine Maillard (INRIA France) <br>
 Theo Misiakiewicz (Yale) <br>
 Francesco Mori (Oxford) <br>
