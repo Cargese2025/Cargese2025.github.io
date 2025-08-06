@@ -6,7 +6,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 
 # Schedule
 
-<img src="https://github.com/Cargese2025/Cargese2025.github.io/blob/main/Program2025.jpeg.png" alt="drawing" width="800"/>
+![program](Program2025.jpeg.png)
 
 # Lecturers
 
