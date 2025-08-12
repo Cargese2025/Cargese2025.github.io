@@ -30,7 +30,7 @@ Ahmed El Alaoui (Cornell) <br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Alberto Bietti (Flatiron) <br>
-Claire Boyer (Orsay) <br>
+Claire Boyer (Orsay) <a href="https://github.com/Cargese2025/Cargese2025.github.io/blob/main/Folder/Boyer_attention_clustering.pdf">notes</a><br>
 Joan Bruna (NYU) <a href="Folder/joanbruna.pdf">slides</a><br>
 Alex Damian (Princeton)<br>
 Ivan Dokmanic (Basel)<br>
