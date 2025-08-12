@@ -15,7 +15,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 Peter Bartlett (Berkeley)<br>
 Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
-Bruno Loureiro (ENS Paris) [Lecture notes](https://brloureiro.github.io/assets/pdf/cargese2025.pdf)<br>
+Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
 Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<br>
 Andrew Saxe (UCL) <br>
