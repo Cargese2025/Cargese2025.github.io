@@ -18,7 +18,7 @@ Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris) [Lecture notes](https://brloureiro.github.io/assets/pdf/cargese2025.pdf)<br>
 Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<br>
-Andrew Saxe (UCL)<br>
+Andrew Saxe (UCL) <br>
 Brice Huang (MIT) <br>
 Pragya Sur (Harvard) <br>
 </div>
@@ -39,7 +39,7 @@ Hugo Cui (Harvard) <br>
 David Gamarnik (Harvard) <br>
 Cedric Gerbelot (ENS Lyon) <br>
 Federica Gerace (Bologna)<br>
-Sebastian Goldt (SISSA) <br>
+Sebastian Goldt (SISSA) <a href="Folder/2508 ICA Goldt Cargese.pdf">slides</a><br>
 Francesca Mignacco (Princeton)<br>
 Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
