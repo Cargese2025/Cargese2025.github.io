@@ -31,7 +31,7 @@ Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Alberto Bietti (Flatiron) <br>
 Claire Boyer (Orsay) <br>
-Joan Bruna (NYU) <br>
+Joan Bruna (NYU)  [slides](Folder/joanbruna.pdf)<br>
 Alex Damian (Princeton)<br>
 Ivan Dokmanic (Basel)<br>
 Karolina Dziugaite (Google)<br>
