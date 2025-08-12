@@ -12,7 +12,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 
 <div style="column-count: 3;">
 
-Peter Bartlett (Berkeley)<br>
+Peter Bartlett (Berkeley)<a href="https://www.stat.berkeley.edu/~bartlett/talks/202508Cargese.pdf">Slides</a><br>
 Giulio Biroli (ENS)<br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
