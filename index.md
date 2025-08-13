@@ -46,7 +46,7 @@ Courtney Paquette (McGill University)<br>
 Antoine Maillard (INRIA France) <br>
 Theo Misiakiewicz (Yale) <br>
 Francesco Mori (Oxford) <br>
-Carlo Lucibello (Bocconi) <br>
+Carlo Lucibello (Bocconi) <a href=" Folder/diffusion_45min.pdf">slides</a><br>
 Jason Lee (Princeton)<br>
 Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <br>
