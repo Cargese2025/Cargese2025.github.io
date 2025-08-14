@@ -55,6 +55,7 @@ Guilhem Semerjian (ENS Paris) <br>
 Inbar Seroussi (Tel-Aviv)<br>
 Gabriele Sicuro (Bologna) <br>
 Stefano Sarao Mannelli(Gothenburg University)<br>
+Emanuele Troiani (EPFL) <a href="Folder/Troianil.pdf">slides</a><br>
 Eric Vanden-Eijnden (NYU)<br>
 Ilias Zadik (Yale) <br>
 Zohar Ringel (Racah Institute of Physics)<br>
