@@ -20,7 +20,7 @@ Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<br>
 Andrew Saxe (UCL) <br>
 Brice Huang (MIT) <br>
-Pragya Sur (Harvard) <br>
+Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 </div>
 
 # Confirmed invited speakers and participants
