@@ -13,7 +13,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 <div style="column-count: 3;">
 
 Peter Bartlett (Berkeley)<a href="https://www.stat.berkeley.edu/~bartlett/talks/202508Cargese.pdf">Slides</a><br>
-Giulio Biroli (ENS)<br>
+Giulio Biroli (ENS)<a href="Folder/Biroli  .pdf">Slides</a><br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
 Daniel Roy (Vector Institute)<br>
@@ -49,16 +49,17 @@ Francesco Mori (Oxford) <br>
 Carlo Lucibello (Bocconi) <a href=" Folder/diffusion_45min.pdf">slides</a><br>
 Jason Lee (Princeton)<br>
 Aukosh Jagannath (Waterloo)<br>
-Chris Jones (Bocconi) <br>
+Chris Jones (Bocconi) <a href="Folder/CJones.pdf">slides</a><br>
 Subhabrata Sen(Harvard) <br>
-Guilhem Semerjian (ENS Paris) <br>
+Guilhem Semerjian (ENS Paris) <a href="Folder/GS.pdf">slides</a><br>
 Inbar Seroussi (Tel-Aviv)<br>
 Gabriele Sicuro (Bologna) <br>
+Ludovic Stephan (Rennes)  <a href="Folder/Ludo.pdf">slides</a><br>        
 Stefano Sarao Mannelli(Gothenburg University)<br>
 Emanuele Troiani (EPFL) <a href="Folder/Troianil.pdf">slides</a><br>
 Eric Vanden-Eijnden (NYU)<br>
 Ilias Zadik (Yale) <br>
-Zohar Ringel (Racah Institute of Physics)<br>
+Zohar Ringel (Racah Institute of Physics) <a href="Folder/Zohar.pdf">slides</a><br>
 </div>
 
 
