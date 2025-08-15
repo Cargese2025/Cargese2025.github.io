@@ -45,7 +45,7 @@ Elliot Paquette (McGill) <br>
 Courtney Paquette (McGill University)<br>
 Antoine Maillard (INRIA France) <br>
 Theo Misiakiewicz (Yale) <br>
-Francesco Mori (Oxford) <br>
+Francesco Mori (Oxford) <a href="Folder/Mori_cargese.pdf">slides</a><br>
 Carlo Lucibello (Bocconi) <a href=" Folder/diffusion_45min.pdf">slides</a><br>
 Jason Lee (Princeton)<br>
 Aukosh Jagannath (Waterloo)<br>
