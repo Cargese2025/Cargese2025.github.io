@@ -19,7 +19,7 @@ Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/carg
 Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<br>
 Andrew Saxe (UCL) <br>
-Brice Huang (MIT) <br>
+Brice Huang (MIT) <a href="Huang_slides.pdf">slides</a><br>
 Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 </div>
 
