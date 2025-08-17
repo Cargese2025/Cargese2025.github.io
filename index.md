@@ -29,25 +29,27 @@ Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 Ahmed El Alaoui (Cornell) <br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
+Freya Behrens (EPFL) <a href="Folder/Freya.pdf">slides</a><br>
 Alberto Bietti (Flatiron) <br>
 Claire Boyer (Orsay) <a href="https://github.com/Cargese2025/Cargese2025.github.io/blob/main/Folder/Boyer_attention_clustering.pdf">notes</a><br>
 Joan Bruna (NYU) <a href="Folder/joanbruna.pdf">slides</a><br>
 Alex Damian (Princeton)<br>
 Ivan Dokmanic (Basel)<br>
-Karolina Dziugaite (Google)<br>
+Karolina Dziugaite (Google) <a href="Folder/GKD.pdf">slides</a><br>
 Hugo Cui (Harvard) <br>
 David Gamarnik (Harvard) <br>
 Cedric Gerbelot (ENS Lyon) <br>
 Federica Gerace (Bologna)<br>
 Sebastian Goldt (SISSA) <a href="Folder/2508 ICA Goldt Cargese.pdf">slides</a><br>
 Francesca Mignacco (Princeton)<br>
-Elliot Paquette (McGill) <br>
+Elliot Paquette (McGill) <a href="Folder/ElliotP.pdf">slides</a><br>
 Courtney Paquette (McGill University)<br>
 Antoine Maillard (INRIA France) <br>
-Theo Misiakiewicz (Yale) <br>
+Theo Misiakiewicz (Yale)  <a href="Folder/THeo.pdf">slides</a><br>
 Francesco Mori (Oxford) <a href="Folder/Mori_cargese.pdf">slides</a><br>
+Francesco Pernice (MIT) <a href="Folder/Fra-P-slides.pdf">slides</a>,<a href="Folder/Fra-P-Notes.pdf">notes</a> <br>
 Carlo Lucibello (Bocconi) <a href=" Folder/diffusion_45min.pdf">slides</a><br>
-Jason Lee (Princeton)<br>
+Jason Lee/Eshaan Nichani (Princeton) <a href="Folder/Nichani.pdf">slides</a><br>
 Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <a href="Folder/CJones.pdf">slides</a><br>
 Subhabrata Sen(Harvard) <br>
