@@ -54,10 +54,11 @@ Aukosh Jagannath (Waterloo)<br>
 Chris Jones (Bocconi) <a href="Folder/CJones.pdf">slides</a><br>
 Subhabrata Sen(Harvard) <br>
 Guilhem Semerjian (ENS Paris) <a href="Folder/GS.pdf">slides</a><br>
-Inbar Seroussi (Tel-Aviv)<br>
+Inbar Seroussi (Tel-Aviv)<a href="Folder/Inbar.pdf">slides</a><br>
 Gabriele Sicuro (Bologna) <br>
 Ludovic Stephan (Rennes)  <a href="Folder/Ludo.pdf">slides</a><br>        
 Stefano Sarao Mannelli(Gothenburg University)<br>
+Nati Srebro (Chicago)<a href="Folder/Nati.pdf">slides</a><br>
 Emanuele Troiani (EPFL) <a href="Folder/Troianil.pdf">slides</a><br>
 Eric Vanden-Eijnden (NYU) <a href="FFolder/Eric-compressé.pdf">slides</a><br>
 Ilias Zadik (Yale) <br>
