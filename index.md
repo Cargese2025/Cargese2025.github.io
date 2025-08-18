@@ -59,7 +59,7 @@ Gabriele Sicuro (Bologna) <br>
 Ludovic Stephan (Rennes)  <a href="Folder/Ludo.pdf">slides</a><br>        
 Stefano Sarao Mannelli(Gothenburg University)<br>
 Emanuele Troiani (EPFL) <a href="Folder/Troianil.pdf">slides</a><br>
-Eric Vanden-Eijnden (NYU)<br>  <a href="FFolder/Eric-compressé.pdf">slides</a><br>
+Eric Vanden-Eijnden (NYU) <a href="FFolder/Eric-compressé.pdf">slides</a><br>
 Ilias Zadik (Yale) <br>
 Zohar Ringel (Racah Institute of Physics) <a href="Folder/Zohar.pdf">slides</a><br>
 </div>
