@@ -14,7 +14,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, 
 
 Peter Bartlett (Berkeley)<a href="https://www.stat.berkeley.edu/~bartlett/talks/202508Cargese.pdf">Slides</a><br>
 Giulio Biroli (ENS)<a href="Folder/Biroli  .pdf">Slides</a><br>
-Michael Bronstein (Oxford)<br>
+Michael Bronstein (Oxford)<a href="Folder/Geometric.pdf">Slides</a><br>
 Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
 Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<a href="Folder/Yue-S.pdf">slides</a>,<a href="Folder/Yue-N.pdf">notes</a> <br>
