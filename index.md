@@ -26,7 +26,7 @@ Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 # Confirmed invited speakers and participants
 
 <div style="column-count: 3;">
-Ahmed El Alaoui (Cornell) <br>
+Ahmed El Alaoui (Cornell) <a href="Ahmed.pdf">slides</a><br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Freya Behrens (EPFL) <a href="Folder/Freya.pdf">slides</a><br>
