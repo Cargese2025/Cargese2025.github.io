@@ -17,7 +17,7 @@ Giulio Biroli (ENS)<a href="Folder/Biroli  .pdf">Slides</a><br>
 Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
 Daniel Roy (Vector Institute)<br>
-Yue Lu (Harvard)<br>
+Yue Lu (Harvard)<a href="Folder/Yue-S.pdf">slides</a>,<a href="Folder/Yue-N.pdf">notes</a> <br>
 Andrew Saxe (UCL) <br>
 Brice Huang (MIT) <a href="Huang_slides.pdf">slides</a><br>
 Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
