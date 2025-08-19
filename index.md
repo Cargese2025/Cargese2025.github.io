@@ -44,7 +44,7 @@ Sebastian Goldt (SISSA) <a href="Folder/2508 ICA Goldt Cargese.pdf">slides</a><b
 Francesca Mignacco (Princeton)<br>
 Elliot Paquette (McGill) <a href="Folder/ElliotP.pdf">slides</a><br>
 Courtney Paquette (McGill University)<br>
-Antoine Maillard (INRIA France) <br>
+Antoine Maillard (INRIA France) <a href="Folder/Antoine.pdf">slides</a><br>
 Theo Misiakiewicz (Yale)  <a href="Folder/THeo.pdf">slides</a><br>
 Francesco Mori (Oxford) <a href="Folder/Mori_cargese.pdf">slides</a><br>
 Francesco Pernice (MIT) <a href="Folder/Fra-P-slides.pdf">slides</a>,<a href="Folder/Fra-P-Notes.pdf">notes</a> <br>
