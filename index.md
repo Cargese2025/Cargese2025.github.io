@@ -30,7 +30,7 @@ Ahmed El Alaoui (Cornell) <a href="Folder/Ahmed.pdf">slides</a><br>
 Michael Albergo (Harvard)<br>
 Gérard Ben Arous (NYU)<br>
 Freya Behrens (EPFL) <a href="Folder/Freya.pdf">slides</a><br>
-Alberto Bietti (Flatiron) <br>
+Alberto Bietti (Flatiron) <a href="Folder/Alerbto.pdf">slides</a><br>
 Claire Boyer (Orsay) <a href="https://github.com/Cargese2025/Cargese2025.github.io/blob/main/Folder/Boyer_attention_clustering.pdf">notes</a><br>
 Joan Bruna (NYU) <a href="Folder/joanbruna.pdf">slides</a><br>
 Alex Damian (Princeton)<br>
@@ -61,7 +61,7 @@ Stefano Sarao Mannelli(Gothenburg University)<br>
 Nati Srebro (Chicago)<a href="Folder/Nati.pdf">slides</a><br>
 Emanuele Troiani (EPFL) <a href="Folder/Troianil.pdf">slides</a><br>
 Eric Vanden-Eijnden (NYU) <a href="FFolder/Eric-compressé.pdf">slides</a><br>
-Ilias Zadik (Yale) <br>
+Ilias Zadik (Yale)  <a href="Folder/Ilias.pdf">slides</a><br>
 Zohar Ringel (Racah Institute of Physics) <a href="Folder/Zohar.pdf">slides</a><br>
 </div>
 
