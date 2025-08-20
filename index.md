@@ -37,8 +37,8 @@ Alex Damian (Princeton)<br>
 Ivan Dokmanic (Basel)<br>
 Karolina Dziugaite (Google) <a href="Folder/GKD.pdf">slides</a><br>
 Hugo Cui (Harvard) <br>
-David Gamarnik (Harvard) <br>
-Cedric Gerbelot (ENS Lyon) <br>
+David Gamarnik (Harvard)  <a href="Folder/David.pdf">slides</a><br>
+Cedric Gerbelot (ENS Lyon) <a href="Folder/Cedric.pdf">slides</a><br>
 Federica Gerace (Bologna)<br>
 Sebastian Goldt (SISSA) <a href="Folder/2508 ICA Goldt Cargese.pdf">slides</a><br>
 Francesca Mignacco (Princeton)<br>
