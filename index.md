@@ -27,7 +27,7 @@ Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 
 <div style="column-count: 3;">
 Ahmed El Alaoui (Cornell) <a href="Folder/Ahmed.pdf">slides</a><br>
-Michael Albergo (Harvard)<br>
+Michael Albergo (Harvard) <a href="Folder/Generative Flow Maps via Self-distillation  Copy.pdf">slides</a><br>
 Gérard Ben Arous (NYU)<br>
 Freya Behrens (EPFL) <a href="Folder/Freya.pdf">slides</a><br>
 Alberto Bietti (Flatiron) <a href="Folder/Alerbto.pdf">slides</a><br>
@@ -41,9 +41,9 @@ David Gamarnik (Harvard)  <a href="Folder/David.pdf">slides</a><br>
 Cedric Gerbelot (ENS Lyon) <a href="Folder/Cedric.pdf">slides</a><br>
 Federica Gerace (Bologna)<br>
 Sebastian Goldt (SISSA) <a href="Folder/2508 ICA Goldt Cargese.pdf">slides</a><br>
-Francesca Mignacco (Princeton)<br>
+Francesca Mignacco (Princeton)  <a href="Folder/francesca_cargese2025.pdf">slides</a><br>
 Elliot Paquette (McGill) <a href="Folder/ElliotP.pdf">slides</a><br>
-Courtney Paquette (McGill University)<br>
+Courtney Paquette (McGill University) <a href="Folder/Paquette_C_Cargese.pdf">slides</a><br>
 Antoine Maillard (INRIA France) <a href="Folder/Antoine.pdf">slides</a><br>
 Theo Misiakiewicz (Yale)  <a href="Folder/THeo.pdf">slides</a><br>
 Francesco Mori (Oxford) <a href="Folder/Mori_cargese.pdf">slides</a><br>
