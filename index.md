@@ -18,7 +18,7 @@ Michael Bronstein (Oxford)<a href="Folder/Geometric.pdf">Slides</a><br>
 Bruno Loureiro (ENS Paris) <a href="https://brloureiro.github.io/assets/pdf/cargese2025.pdf">Lecture notes</a><br>
 Daniel Roy (Vector Institute)<br>
 Yue Lu (Harvard)<a href="Folder/Yue-S.pdf">slides</a>,<a href="Folder/Yue-N.pdf">notes</a> <br>
-Andrew Saxe (UCL) <br>
+Andrew Saxe (UCL) <a href="Folder/rep_dyn_cargese1.pdf">[1]</a>,<a href="Folder/rep_dyn_cargese2.pdf">[2]</a><br>
 Brice Huang (MIT) <a href="Huang_slides.pdf">slides</a><br>
 Pragya Sur (Harvard)  <a href="Folder/slides_Cargese_toshare.pdf">slides</a><br>
 </div>
@@ -34,9 +34,10 @@ Alberto Bietti (Flatiron) <a href="Folder/Alerbto.pdf">slides</a><br>
 Claire Boyer (Orsay) <a href="https://github.com/Cargese2025/Cargese2025.github.io/blob/main/Folder/Boyer_attention_clustering.pdf">notes</a><br>
 Joan Bruna (NYU) <a href="Folder/joanbruna.pdf">slides</a><br>
 Alex Damian (Princeton)<br>
-Ivan Dokmanic (Basel)<br>
+Ivan Dokmanic (Basel) <a href="Cargese - Effective-LIGHT.pdf">slides</a><br>
 Karolina Dziugaite (Google) <a href="Folder/GKD.pdf">slides</a><br>
 Hugo Cui (Harvard) <br>
+Yatin Dandi (EPFL) <a href="hierarchical_slides_carges_compressed.pdf">slides</a><br>
 David Gamarnik (Harvard)  <a href="Folder/David.pdf">slides</a><br>
 Cedric Gerbelot (ENS Lyon) <a href="Folder/Cedric.pdf">slides</a><br>
 Federica Gerace (Bologna)<br>
